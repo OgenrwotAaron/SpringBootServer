@@ -9,6 +9,16 @@
       "projectName": "demo",
       "args": "",
       "envFile": "${workspaceFolder}/.env"
+    },
+    {
+      "type": "java",
+      "name": "Spring Boot-HibernatedemoApplication<hibernatedemo>",
+      "request": "launch",
+      "cwd": "${workspaceFolder}",
+      "mainClass": "com.example.hibernatedemo.HibernatedemoApplication",
+      "projectName": "hibernatedemo",
+      "args": "",
+      "envFile": "${workspaceFolder}/.env"
     }
   ]
 }
